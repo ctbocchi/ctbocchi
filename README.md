@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Chris! </h1>
+<h1 align="center">👋 Hello, I'm Chris! 👋 </h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -23,6 +23,8 @@ I'm a passionate software engineering with a love for MMO online games, web deve
 ## 📂 Notable Projects
 - [Street Card Project (Senior Capstone Project)](https://github.com/calfaro7/StreetCardProject)
 - [SWG Attack of the Clones (Star Wars Galaxies Private Server)](https://gitlab.com/alpha38/aotc-v2)
+- [Darkfall Rise of Agon Asia](https://massivelyop.com/2021/02/03/darkfall-rise-of-agon-is-expanding-its-paid-dev-team-and-launching-in-asia/)
+- [Boondoggle Interactive: Blinding Blade](https://store.steampowered.com/app/895520/Blinding_Blade/)
 
 ## 🚀 Skills
 ### Programming Languages
