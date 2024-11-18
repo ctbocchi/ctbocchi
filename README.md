@@ -45,6 +45,5 @@ I'm a passionate software engineering with a love for MMO online games, web deve
 - AWS (EC2) (ECS)
 - Jetbrains (IntelliJ) (PyCharms) (Webstorm)
 
-## 🌐 Let's Connect
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ctbocchi/)
+
 
